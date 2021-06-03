@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Popish politicks unmaskt</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55465</idno><idno type="EEBO-CITATION">15020872</idno>
+  <idno type="VID">103060</idno>
+  <idno type="EEBO-PROQUEST">2240941869</idno>
+  
+            <idno type="STC">Wing P2957A</idno>
+            <idno type="STC">ESTC R35118</idno>
+            <idno type="OCLC">15020872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Popish politicks unmaskt</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="popish" type="poem">
+            <pb n="1" facs="tcp:103060:1"/>
+            <head>POPISH POLITICKS UNMASKT.</head>
+            <lg>
+               <l>WAlking (some Ten years since) along the Park,</l>
+               <l>One Summer Eve, before it was quite dark;</l>
+               <l>I fancied 'mongst a Grove of Trees I spy'd</l>
+               <l>A man stand musing by the Water side:</l>
+               <l>I wish 'twas but a fancy, but I doubt</l>
+               <l>You'l find it none when you have heard it out.</l>
+               <l>This Person was a very tall, black man,</l>
+               <l>Above the common size almost a span,</l>
+               <l>His Face was wasted in most piteous sort</l>
+               <l>In all things else he was of Royal port:</l>
+               <lg>
+                  <l>But if grim-looks alone Majestick be,</l>
+                  <l>Commend me to that Face for Majesty;</l>
+                  <l>For such it had enough for two or three.</l>
+               </lg>
+               <l>To this Tall Man join'd instantly another</l>
+               <l>Of near his Stature, whom he called Brother,</l>
+               <l>Richly encircled with a numerous Ring,</l>
+               <l>Which shew'd he wanted nought but Name of King;</l>
+               <l>Some time they silent were, till all were gon,</l>
+               <l>Then did the Taller say, Brother go on,</l>
+               <l>Which thus he did—</l>
+               <l>I shall, Great Sir, my last Discourse retrieve,</l>
+               <l>I pray you good attention to it give</l>
+               <l>Your case peculiar is, peculiar too</l>
+               <l>Must be your care, or you'l your self undo;</l>
+               <l>For Stations high, with Industry and Wit,</l>
+               <l>A second way may find, if first don't hit:</l>
+               <l>But Princes mounted on a Soveraign Throne</l>
+               <l>Nor have, nor can have other way but one</l>
+               <l>To curb the saucy vulgar, and pull down</l>
+               <l>Their Cobweb Rights that Circumscribe the Crown.</l>
+               <l>Tear off your Shackles, make the Bumkins know</l>
+               <l>There's none but you Almighty here below.</l>
+               <l>You spoil your Game, Sir, while you do thus dally,</l>
+               <l>Who follows him that standeth, shall I, shall I?</l>
+               <l>You Cow the Bold, and Keen the Cowards heart,</l>
+               <l>Whilst you, divided, Act the Doubtful part.</l>
+               <l>Had you, when <hi>London</hi> was in Flames, but run</l>
+               <l>And Cut the Citts damn'd Throats, your work you'd done,</l>
+               <l>You should have made their Blood the Fire to meet,</l>
+               <l>With Bodies fed the Flames in every Street.</l>
+               <l>To do and undo, suits well sorry things,</l>
+               <l>But 'tis beneath the Majesty of Kings:</l>
+               <l>
+                  <hi>Caesar</hi> or nothing's writ on all they do;</l>
+               <l>For Monarchs know no Medium 'twixt these two</l>
+               <l>What is't you stick at, Sir! Would you retreat?</l>
+               <l>You're now so far Engaged you must beat</l>
+               <l>Or Beaten be, Ride or be Ridden now,</l>
+               <l>He never back must look that holds the Plow.</l>
+               <l>It may be you'd not Promise break, nor Oath,</l>
+               <l>Pish! All the World well know you can do both.</l>
+               <l>With great advice the other day you said</l>
+               <l>By Parliaments and Counsels you'd be sway'd:</l>
+               <l>To day you think it good to let them know,</l>
+               <l>What e're you said, you ne're intended so:</l>
+               <l>Fools to their Word, but Princes great, like you,</l>
+               <l>To nought but their Intentions must be true.</l>
+               <l>What! Is't the Laws you tender are to break?</l>
+               <l>It's well known that's a scruple but too weak:</l>
+               <l>For Laws are nothing else but Tyes and Bands,</l>
+               <l>On purpose made to Shackle Subjects Hands.</l>
+               <l>Or, of fit Tools is't you so doubtful are?</l>
+               <l>If that be it, I'le ease you of your Care;</l>
+               <l>I Villains of intrinsick value have,</l>
+               <l>And more Obedient than a Turkish Slave:</l>
+               <l>If you but bid them thrust their bloody Knives</l>
+               <l>Into their Fathers Throats, their Childrens, Wives,</l>
+               <l>Or any but their own, they'l freely do't,</l>
+               <l>And lay them sprawling at your Sacred foot.</l>
+               <l>I have my Teagues and Tories at my beck</l>
+               <l>Will wring their Heads off like a Chickens neck;</l>
+               <l>Try'd Rogues, that never will so much as start</l>
+               <l>To tear from Mothers Belly Infants Heart,</l>
+               <l>First Rape, then rip them up, in one Half-hour</l>
+               <l>Two Lusts they'l satiate, do but give them power.</l>
+               <l>Faint Rogues will melt, and have their qualms of fear</l>
+               <l>At Fathers Groans, or at a Mothers Tear,</l>
+               <l>But mine are Monsters, fit for any Prince,</l>
+               <l>Not plagu'd with Conscience, nor yet plagu'd with Sense.</l>
+               <l>The Flames of Hell, Horror, Eternal pains,</l>
+               <l>The Clergy's Cheats to propagate their Gains,</l>
+               <l>They Ridicule and scorn to lend their Ear,</l>
+               <l>Let Knaves for Profit Preach, and Fools go hear,</l>
+               <l>The Tales of Future Bliss, not worth a Rush.</l>
+               <l>With them one Bird in Hand's worth two i'th' Bush.</l>
+               <l>Others won't serve you but on constant Pay,</l>
+               <l>My Hounds will Hunt, and live upon their Prey;</l>
+               <l>A Virgins Haunch, or well Bak'd Ladies Breast</l>
+               <l>To them is better then a Ven'son Feast;</l>
+               <l>Babes Pettitoes, cut large with Arms and Leggs</l>
+               <l>They far prefer fore Pettitoes of Piggs:</l>
+               <l>Poor Span-long Infants, that like Carps, well Stew'd</l>
+               <l>In their own Blood, their Irish Chaps have Chew'd;</l>
+               <l>And Fathers Cauls have Candles made to Light</l>
+               <l>Those black Inhumane Banquets of the Night.</l>
+               <l>What e're you'd have, what e're your wishes craves,</l>
+               <l>Nod, and 'tis done by my Obedient Slaves.</l>
+               <l>They know no Scruple, no Command dispute,</l>
+               <l>But do't as readily as Turkish Mute.</l>
+               <l>You see, Sir where you are, your Royal date</l>
+               <l>Grows out if you don't soon support your Fate.</l>
+               <l>To Shake <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliaments will be too great,</l>
+               <l>And put you in too violent a Sweat,</l>
+               <l>To Baffle therefore, but not cast them off,</l>
+               <l>To hold them still, but hold them still in Scoff,</l>
+               <l>Must be your work; For we are weaken'd so,</l>
+               <l>That we must drive the Nail that now will go:</l>
+               <l>And that too, we must do with gentle hand</l>
+               <l>That tho they sit, they may not understand.</l>
+               <l>When <hi>January</hi> comes, Cold and ill way</l>
+               <l>Will call it Love to put them off till <hi>May,</hi>
+               </l>
+               <l>In <hi>May</hi> some odd Intelligence comes newly</l>
+               <l>Won't suffer you to hold them until <hi>July,</hi>
+               </l>
+               <pb n="2" facs="tcp:103060:2"/>
+               <l>And <hi>July</hi> so with Heat and Sickness vext,</l>
+               <l>Pitty Prorogues them to <hi>November</hi> next.</l>
+               <l>And time is ill spent, if before that day</l>
+               <l>We be not able to throw Mask away.</l>
+               <l>This far exceeds Dissolving in my mind,</l>
+               <l>And gives to our Design a better Blind;</l>
+               <l>For if Two Parliaments you slight, I doubt</l>
+               <l>The Rogues will then begin to Scent us out;</l>
+               <l>For (Watchful, with Erected Ears) the Herd</l>
+               <l>Stand listning now concern'd, and much afear'd;</l>
+               <l>A Covey, half o're-spread, half Scap'd the Net</l>
+               <l>Are always harder than at first to set:</l>
+               <l>So People slipt out of the Noose, or Train,</l>
+               <l>Are much the harder to be catcht again.</l>
+               <l>With Prorogations therefore short, and soft</l>
+               <l>They must be Treated; These repeated oft</l>
+               <l>Will chafe them so, that either mad with rage,</l>
+               <l>They'l bring their Old Rebellion on the Stage,</l>
+               <l>Or sullen sit, and leer on what we do,</l>
+               <l>(The far more dangerous humour of the two)</l>
+               <l>Their dogged Nature now its venom vents</l>
+               <l>In choosing Damn'd and plaguy Parliaments;</l>
+               <l>Poor fools, their Rage does quite out-run their Wit,</l>
+               <l>Yet you must never suffer them to sit,</l>
+               <l>But mock the Choice, and mock the Session too.</l>
+               <l>Another way, Sir, we our work will do;</l>
+               <l>One Plot is better than ten Parliaments,</l>
+               <l>Those give you Taxes, these shall give you Rents;</l>
+               <l>A Thousand of the Richest we will Scrue</l>
+               <l>Into a Plot they ne'r heard of, nor knew.</l>
+               <l>If Rents 3000 <hi>l.</hi> a Day, won't do,</l>
+               <l>I'le three times three, by this Plot help you to</l>
+               <l>This, Sir's, your business, and look to your Stuff,</l>
+               <l>Is all your care, for we have Rogues enough;</l>
+               <l>Do you but Judges get, I'le Juries find;</l>
+               <l>Witnesses too, according to our mind,</l>
+               <l>Such Spruce Rogues, ah! 'twould do you good to hear</l>
+               <l>How daring bold, and bravely they will Swear;</l>
+               <l>They're not like <hi>Bedlow, Dugdale, Oates</hi> and such</l>
+               <l>Consider first, for fear to speak too much,</l>
+               <l>Nor let their Conscience maim their Evidence,</l>
+               <l>Through tender fear of hurting Innocence:</l>
+               <l>Nor do I care for a Phanatick Noose,</l>
+               <l>All are Phanaticks that have ought to lose.</l>
+               <l>Judge, Witnesses and Jury I'le make sure,</l>
+               <l>The Devil's in't if all ben't then secure.</l>
+               <l>Yet if this fails don't you discourag'd be,</l>
+               <l>To form new Plots, leave to my Priests and me;</l>
+               <l>Like Pins one Plot another shall drive out,</l>
+               <l>Till we have brought our onely Plot about.</l>
+               <l>Our first work is to save our Friends, that done,</l>
+               <l>Like shirts tour backs, we'll have more Plots than one;</l>
+               <l>As fast as this fails, t'other we will start,</l>
+               <l>Till Plot, like Pox, have seiz'd on every part.</l>
+               <l>They fain would foil our Plots, and fill your Ears</l>
+               <l>With Regicide intents to raise your fears,</l>
+               <l>This fruitless Gun, that Dagger stabs your Belly,</l>
+               <l>When you know all, better than they can tell ye.</l>
+               <l>Go on, Sir, never fear the heedless Herd,</l>
+               <l>They have no Courage but when you're afear'd:</l>
+               <l>On me lay all the fault of Town and Age,</l>
+               <l>I'le safely screen you from the Peoples Rage;</l>
+               <l>For when ill accidents our Plots do spoil</l>
+               <l>Me they'l call Rogue, but you must sacred stile:</l>
+               <l>For Loyalty aws them in every thing,</l>
+               <l>Tho you destroy them, yet, God save the King,</l>
+               <l>Tho you them stab and I but hold the Knife,</l>
+               <l>Yet still they'l wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h your Majesty long life.</l>
+               <l>Thus, great Sir, you're the greatest Prince alive;</l>
+               <l>If Plots according to our projects thrive;</l>
+               <l>And thrive they shall, if you'l but do your part,</l>
+               <l>And from proposed methods never start:</l>
+               <l>For Plots like Clock-work are; one Pin pull'd out</l>
+               <l>Doth all its Order, and its Beauty rout,</l>
+               <l>Steady your hand, keep Parliaments at Bay,</l>
+               <l>Nor off, nor on, nor Working, nor at Play,</l>
+               <l>Clip every Tongue you find do hang too long,</l>
+               <l>(Tis taking wind makes every thing scent strong.)</l>
+               <l>Thus if you do, ill fortune I'le defy,</l>
+               <l>All other things pray leave to Fate and I:</l>
+               <l>And now adieu, I'le dive beneath the show,</l>
+               <l>And act my Popish Will by Art below.</l>
+            </lg>
+            <lg>
+               <l>He being gone, in steps a certain Lord,</l>
+               <l>Who had of all was said heard every Word.</l>
+               <l>Great Sir (said he) who can tell what to say?</l>
+               <l>If you by Popish Councils mean to sway,</l>
+               <l>Curs'd be those Councils! and the Men that do</l>
+               <l>Perswade you to our Ruine, and yours too.</l>
+               <l>A Thousand Names, ten thousand let your Brother</l>
+               <l>In's next Book write, if he dares write another:</l>
+               <l>Ten Gentrys Names for one that he hath got,</l>
+               <l>Nay let him name us all in the next Plot.</l>
+               <l>All but the Papists Sir, — all but a few</l>
+               <l>Of Rome's sworn Vassals and her Clergy Crew.</l>
+               <l>Bate but this sort, and then take you the Pole,</l>
+               <l>You'l hardly get another English Soul.</l>
+               <lg>
+                  <l>Assoon as will then let your Brother draw</l>
+                  <l>High'r Huffs, yet he shall never <hi>England</hi> aw,</l>
+                  <l>On our side stand the People, and the Law:</l>
+               </lg>
+               <l>For don't mistake, Sir, 'tis by Law alone</l>
+               <l>Your Right's derived to our English Throne,</l>
+               <l>Set that aside, and make the Law a sham,</l>
+               <l>No Soveraign you, nor I a Subject am;</l>
+               <l>For that same Law that gives you Dignity,</l>
+               <l>Gives me my Life, Fortune and Liberty:</l>
+               <l>Pardon, if with less reverence this is said,</l>
+               <l>Than doth become a Member to its Head;</l>
+               <l>For it sound Doctrine is, tho Cully Brother</l>
+               <l>And Popish Wits would fain find out another.</l>
+               <l>Within the Circle of the Law, great Sir,</l>
+               <l>I stand, and out of it I'le never stir:</l>
+               <l>If to be King you be content, I will</l>
+               <l>Pay all Allegiance and Obedience still;</l>
+               <l>The Peoples Rights, and all our English Laws</l>
+               <l>Do make the strongest side the subjects Cause.</l>
+               <l>Nor can your keeping us from Parliaments</l>
+               <l>E're further or advantage your Intents,</l>
+               <l>Far greater are the Choosers than the Choice,</l>
+               <l>Englands Free-holders have a mighty voice;</l>
+               <l>These we'l unite, these we'l associate,</l>
+               <l>And if we can't defend our Lives and Fate</l>
+               <l>We'l fairly fall, and Freemen to our Graves</l>
+               <l>We'l rather choose to go, than to be slaves.</l>
+               <l>Our Ancestors shan't Curse us in their Tomb,</l>
+               <l>Nor shall our Children in their Mothers Womb.</l>
+               <l>They left us Free, and we ours Free will leave.</l>
+               <l>Or Death our Hopes and Us shall both deceive.</l>
+            </lg>
+            <lg>
+               <l>Thus said — with angry looks He went his way</l>
+               <l>No answer from his greatness could I pray;</l>
+               <l>Then I trudg'd too; for vain it was to stay.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
